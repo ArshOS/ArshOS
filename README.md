@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arsh</h1>
-<h3 align="center">Researcher and learner.</h3>
+<h3 align="center">Researcher | learner.</h3>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Studying+MS+by+Research+@+IIT+Mandi;Distributed+Computing;Love+everything+about+Compters+and+Tech+&hearts"></a>
+</p>
+
 
 - 🔭 I’m currently working on **distributed computing.**
 
