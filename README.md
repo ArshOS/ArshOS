@@ -6,13 +6,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Studying+MS+by+Research+@+IIT+Mandi;Distributed+Computing;Love+everything+about+Tech+❤️"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Researcher+@+IIT+Mandi;Making+Distributed+Computing+Efficient;Love+everything+about+Tech+❤️"></a>
 </p>
 
 
-- 🔭 I’m currently working on **distributed computing.**
+- 🔭 I’m currently building **Experiences.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mobile Development.**
 
 - 💬 Ask me about **Java**
 
