@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsh</h1>
-<h3 align="center">Researcher | Learner.</h3>
+<h3 align="center">Learner | Researcher | Software Engineer</h3>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently building **Experiences.**
 
-- 🌱 I’m currently learning **Mobile Development.**
+- 🌱 Identify as a **Mammal.**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Android Development.**
 
 - ⚡ Fun fact **I think, I shall always be a learner and never be an expert. ;)**
 
