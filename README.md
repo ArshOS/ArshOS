@@ -84,7 +84,7 @@
 </p>
 
 <h3 align="left">Tools & Environment</h3>
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
