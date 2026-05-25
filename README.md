@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="[https://developer.android.com/static/images/jetpack/compose-icon.svg](https://upload.wikimedia.org/wikipedia/commons/9/98/Jetpack_Compose_logo.png)" alt="jetpack compose" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ArshOS/icons/refs/heads/main/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
@@ -63,7 +63,7 @@
     <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="retrofit" width="40" height="40"/>
   </a>
   <a href="https://ktor.io/" target="_blank" rel="noreferrer">
-    <img src="https://ktor.io/img/ktor_icon.svg" alt="ktor" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ArshOS/icons/refs/heads/main/ktor-original-wordmark.svg" alt="ktor" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="coroutines" width="40" height="40"/>
@@ -88,7 +88,10 @@
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
   </a>
   <a href="https://razorpay.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/razorpay/razorpay-icon.svg" alt="razorpay" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ArshOS/icons/refs/heads/main/razorpay-icon.svg" alt="razorpay" width="40" height="40"/>
+  </a>
+  <a href="https://business.paytm.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ArshOS/icons/refs/heads/main/paytm-icon.svg" alt="paytm" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
