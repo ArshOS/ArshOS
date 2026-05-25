@@ -41,6 +41,9 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
+   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  </a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ArshOS/icons/refs/heads/main/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/>
   </a>
@@ -55,18 +58,6 @@
   </a>
   <a href="https://ktor.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ArshOS/icons/refs/heads/main/ktor-original-wordmark.svg" alt="ktor" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="coroutines" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/docs/flow.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="flow" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kmm" width="40" height="40"/>
-  </a>
-  <a href="https://developers.google.com/ml-kit" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_mlkit/google_mlkit-icon.svg" alt="ml kit" width="40" height="40"/>
   </a>
 </p>
 
