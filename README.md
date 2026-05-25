@@ -50,15 +50,6 @@
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
   </a>
-  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_hilt/google_hilt-icon.svg" alt="hilt" width="40" height="40"/>
-  </a>
-  <a href="https://dagger.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_dagger/google_dagger-icon.svg" alt="dagger" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/static/images/jetpack/compose-tutorial/room.png" alt="room db" width="40" height="40"/>
-  </a>
   <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="retrofit" width="40" height="40"/>
   </a>
