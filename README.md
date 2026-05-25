@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/static/images/jetpack/compose-icon.svg" alt="jetpack compose" width="40" height="40"/>
+    <img src="[https://developer.android.com/static/images/jetpack/compose-icon.svg](https://upload.wikimedia.org/wikipedia/commons/9/98/Jetpack_Compose_logo.png)" alt="jetpack compose" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
